@@ -1,3 +1,4 @@
 Port: 8080
 StaticPath: /static
 ImagePath: /image
+GinMode: debug
